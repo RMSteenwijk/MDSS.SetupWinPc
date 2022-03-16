@@ -1,0 +1,24 @@
+{
+    "workbench.colorTheme": "Abyss",
+    "terminal.explorerKind": "external",
+    "terminal.external.windowsExec": "wt",
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "terminal.integrated.profiles.windows": {
+        "PowerShell": {
+            "source": "PowerShell",
+            "icon": "terminal-powershell"
+        },
+        "Command Prompt": {
+            "path": "C:\\WINDOWS\\System32\\cmd.exe"
+        },
+        "wt": {
+            "path": "C:\\Gebruikers\\roy_s\\AppData\\Local\\Microsoft\\WindowsApps\\wt.exe"
+        }
+    },
+    "svelte.enable-ts-plugin": true,
+    "workbench.productIconTheme": "material-product-icons",
+    "glassit.alpha": 205,
+    "terminal.integrated.detectLocale": "off",
+    "terminal.integrated.enableBell": true,
+    "terminal.integrated.fontSize": 12
+}
