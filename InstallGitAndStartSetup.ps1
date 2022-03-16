@@ -6,4 +6,4 @@ start powershell { choco install dotnet -y }
 
 start powershell { mkdir 'C:\Projects\SetupProject\'; cd 'C:\Projects\SetupProject\'; git clone 'https://github.com/RMSteenwijk/MDSS.SetupWinPc.git' }
 
-start powershell { cd 'C:\Projects\SetupProject\MDSS.SetupWinPc\'; dotnet run }
+start powershell { cd 'C:\Projects\SetupProject\MDSS.SetupWinPc\DownloadNewTerminal'; dotnet run }
